@@ -13,6 +13,7 @@ This erd-diagramm was created with the awesome [SQuirreL SQL Client](http://squi
 The source code comes under the liberal MIT License, making resource-bundles-data great for all types of I18N applications.
 
 # Build status
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8a1b671815d64c6b8edb31e24e1a7d61)](https://www.codacy.com/app/tatjana19/resource-bundles-data?utm_source=github.com&utm_medium=referral&utm_content=lightblueseas/resource-bundles-data&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/lightblueseas/resource-bundles-data.svg?branch=master)](https://travis-ci.org/lightblueseas/resource-bundles-data)
 
 ## Maven Central
